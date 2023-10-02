@@ -1,0 +1,12 @@
+.carousel {
+  max-width: 600px;
+  margin: 10px auto;
+}
+
+.jola {
+  background-color: rgb(128, 255, 0);
+}
+
+nav {
+  font-family: "Oswald", sans-serif !important;
+}
